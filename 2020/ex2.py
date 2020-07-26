@@ -1,0 +1,5 @@
+print('Who are you?')
+myname = input()
+print('Nice to meet you,' +myname)
+age = input('How many revs of earth have passed since your birth?')
+print('Ah, just '+age, '? Thats too young.')
